@@ -1,0 +1,4 @@
+AllowShortBlocksOnASingleLine: SBS_Always
+AllowShortEnumsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: SIS_AllIfsAndElse
+AllowShortLoopsOnASingleLine: true
